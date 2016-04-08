@@ -1,1 +1,1 @@
-# MEANstackpracitce
+# MEANstackpractice
