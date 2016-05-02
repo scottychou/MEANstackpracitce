@@ -1,5 +1,5 @@
 
-Reviving this project, but as a rails app.
+Reviving this project, but as a rails app
 
 I judged a b-boy battle last night and the competitors are typically organized through a bracket system.  So this will be an app that incorporates CRUD with a tournament bracket, with many features that I think would be nice to have.  Ultimately, this is for me to learn a new stack of languages while having some fun.
 
